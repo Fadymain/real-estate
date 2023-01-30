@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Real-Estate Application
+
+A real-estate application with rental homes and for sale properties, advanced property filtering, property details page with an image carousel.
+
 
 ## Getting Started
 
@@ -12,23 +15,32 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Home Page
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+!["Home Page"](https://github.com/Fadymain/real-estate/blob/main/assets/r-estate%20home.png)
 
-## Learn More
+### Search Page
 
-To learn more about Next.js, take a look at the following resources:
+!["Search Page"](<https://github.com/Fadymain/real-estate/blob/main/assets/r-estate%20search.png>)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Search Filters
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+!["Search Filter"](https://github.com/Fadymain/real-estate/blob/main/assets/r-estate%20search%20filter.png)
 
-## Deploy on Vercel
+### Auto Complete
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+!["Auo Complete"](https://github.com/Fadymain/real-estate/blob/main/assets/r-estate%20search%20auto-complete.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Mobile Responsive
+
+!["Mobile Responsive"](https://github.com/Fadymain/real-estate/blob/main/assets/r-estate%20mobile%20responsive.png)
+
+
+
+## Dependencies
+
+- ReactJS
+- NextJS
+- Chakra UI
+- RapidAPI
